@@ -1,11 +1,6 @@
 # List of Projects
 List of Projects of Smart Cities Community
 
-# Projects
-
-Intro
-=====
-
 | Project name | Start | State | Time | Cost | Evidence | URL | Percentage | Repo URL |
 | :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | Logo | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
@@ -31,13 +26,13 @@ Intro
 | Linux for | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Linux for | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Linux for | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| 100 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| 200 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| 300 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| 400 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| 500 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| 600 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| 700 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| 800 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| 900 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| 1000 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
+| 100 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
+| 200 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
+| 300 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
+| 400 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
+| 500 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
+| 600 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
+| 700 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
+| 800 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
+| 900 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
+| 1000 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
