@@ -7,7 +7,7 @@ Intro
 =====
 
 | Project name | Start | State | Time | Cost | Evidence | URL | Percentage | Repo URL |
-| :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: |
+| :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | Logo | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Manual Identity and Branding | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Social Media Planner | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
