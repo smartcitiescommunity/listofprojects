@@ -19,9 +19,9 @@ List of Projects of Smart Cities Community
 | Learning Management System 4SC | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Courses for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Open Source Software List for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| Linux for Data Science | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-data-science-os "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| Smart Entrepreneur OS | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [Repo](https://github.com/smartcitiescommunity/ "Repo of ") |
-| Linux for | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
+| Smart Data Science OS | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-data-science-os "Smart Data Science OS") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
+| Smart Entrepreneur OS | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-entrepreneur-os "Smart Entrepreneur OS") | 00% | [Repo](https://github.com/smartcitiescommunity/ "Repo of ") |
+| Linux for | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-multimedia-studio-os "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Linux for | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Linux for | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Linux for | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
