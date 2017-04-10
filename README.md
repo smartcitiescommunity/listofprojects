@@ -18,7 +18,7 @@ List of Projects of Smart Cities Community
 | Smart Cities Management System | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Learning Management System 4SC | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Courses for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| Open Source Software List for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
+| Open Source Software List for Smart Cities | X | O | O | O | O | [URL](https://www.linkedin.com/pulse/20140714230725-28178958-first-try-and-understand-before-buying-enterprise-class-ready-solutions-for-smart-cities-with-open-source "Enterprise class ready solutions for Smart Cities with Open Source") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Smart Data Science OS | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-data-science-os "Smart Data Science OS") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Smart Entrepreneur OS | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-entrepreneur-os "Smart Entrepreneur OS") | 00% | [Repo](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Smart Multimedia Studio OS | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-multimedia-studio-os "Smart Multimedia Studio OS") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
@@ -26,6 +26,7 @@ List of Projects of Smart Cities Community
 | Smart Docker OS | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-docker-os "Smart Docker OS") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Smart Accessibility OS NG | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-accessibility-os-ng "Smart Accessibility OS NG") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Smart Cities Community OS ONE | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-cities-community-os-one "Smart Cities Community OS ONE") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
+| Smart Developer Studio OS | X | O | O | O | O | [URL](https://susestudio.com/a/06WBrG/smart-developer-studio-os "Smart Developer Studio OS") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | 100 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
 | 200 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
 | 300 Ideas for Smart Cities | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/Ideas-for-Smart-Cities "Repo of Ideas for Smart Cities ") |
