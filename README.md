@@ -4,6 +4,7 @@ List of Projects of Smart Cities Community
 | Project name | Start | State | Time | Cost | Evidence | URL | Percentage | Repo URL |
 | :------: | :------: | :-----: | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | Logo | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
+| First Web Site | X | O | O | O | O | [URL](https://sites.google.com/a/paisdelconocimiento.org/smartcitiescommunity/ "The Firs Base") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Manual Identity and Branding | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Social Media Planner | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Social Media Indentity | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
