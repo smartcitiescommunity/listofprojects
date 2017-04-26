@@ -11,6 +11,7 @@ List of Projects of Smart Cities Community
 | Facebook Profile | X | O | O | O | O | [URL](https://www.facebook.com/SmartCitiesCommunity/ "Smart Cities Community Facebook Fan Page") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Google Plus Profile | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Linkedin Profile | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
+| Linkedin Group | X | O | O | O | O | [URL](https://www.linkedin.com/groups/4941628 "Group Smart Cities Community Global") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Youtube Profile | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Instagram Profile | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Pinterest Profile | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
