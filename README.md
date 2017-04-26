@@ -7,7 +7,7 @@ List of Projects of Smart Cities Community
 | Manual Identity and Branding | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Social Media Planner | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Social Media Indentity | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
-| Twitter Profile | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
+| Twitter Profile | X | O | O | O | O | [URL](https://twitter.com/SmartCitiesCo "Twitter Profile") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Facebook Profile | X | O | O | O | O | [URL](https://www.facebook.com/SmartCitiesCommunity/ "Smart Cities Community Facebook Fan Page") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Google Plus Profile | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
 | Linkedin Profile | X | O | O | O | O | [URL](https://github.com/smartcitiescommunity/ "Repo of ") | 00% | [URL](https://github.com/smartcitiescommunity/ "Repo of ") |
